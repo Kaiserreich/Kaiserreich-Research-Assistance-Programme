@@ -8,6 +8,10 @@ Please review all the rules and expectations before contributing.
 
 ---
 
+![KRAP_Poster](https://github.com/Kaiserreich/Kaiserreich-Research-Assistance-Programme/assets/90009369/ad6c083c-20a3-435c-82f1-d38992f23600)
+
+---
+
 ### Important to note: Request making is for Kaiserreich Team Members **ONLY**.
 Do NOT open requests for yourself. THEY WILL BE DELETED. The constraints of github mean that we are unable to both allow community members to comment under requests while preventing them from opening new requests. We hope most of you will be respectful of this, and not open new issues yourselves.
 
